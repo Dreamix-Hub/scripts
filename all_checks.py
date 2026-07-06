@@ -9,7 +9,7 @@ def check_reboot():
 def main():
 	if check_reboot():
 		print("Reboot Pending!")
-	sys.exit(1)
+		sys.exit(1)
 
 main()
 

@@ -15,7 +15,7 @@ def main():
 		print("Disk is full!")
 		sys.exit(1)
 
-	print("Everythin ok.")
+	print("Everything is fine.")
 	sys.exit(0)
 main()
 

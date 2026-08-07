@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
 def main():
-	pass
+	"check is computer is ok"
 
 main()

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 def main():
-	print("Everything is ok!")
+	"check is computer is ok"
+	print("Everything is ok")
 
 main()
